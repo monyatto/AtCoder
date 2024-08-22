@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # https://atcoder.jp/contests/abc367/tasks/abc367_a
 
 a, b, c = gets.split.map(&:to_i)

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # https://atcoder.jp/contests/abc365/tasks/abc365_a
 
 y = gets.to_i

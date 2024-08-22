@@ -10,7 +10,7 @@ count = 0
 (0..A).each do |a|
   (0..B).each do |b|
     (0..C).each do |c|
-      count += 1 if 500 * a + 100 * b + 50 * c == X
+      count += 1 if (500 * a) + (100 * b) + (50 * c) == X
     end
   end
 end
